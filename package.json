@@ -1,0 +1,19 @@
+{
+  "name": "imageprank",
+  "version": "1.0.0",
+  "description": "Prank friends by sending different images ramdomly on the same url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimehrubiks/imageprank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimehrubiks/imageprank/issues"
+  },
+  "homepage": "https://github.com/jaimehrubiks/imageprank#readme"
+}
